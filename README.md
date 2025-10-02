@@ -15,15 +15,15 @@ Aqui no meu GitHub você encontrará projetos que refletem meu interesse em **tr
 
 🔗 **Conecte-se comigo no LinkedIn:** [https://www.linkedin.com/in/mesquitathais/](https://www.linkedin.com/in/mesquitathais/)
 
+
+### 📊 Linguagens de Programação
+
 <p align="left">
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
-
-
-### 📊 Linguagens de Programação
 
 <p align="left">
     <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
