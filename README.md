@@ -16,97 +16,18 @@ Aqui no meu GitHub você encontrará projetos que refletem meu interesse em **tr
 🔗 **Conecte-se comigo no LinkedIn:** [https://www.linkedin.com/in/mesquitathais/](https://www.linkedin.com/in/mesquitathais/)
 
 <p align="left">
-    <img alt="Foco em Resultados" src="https://img.shields.io/badge/Foco%20em%20Resultados-blue?style=flat-square" />
-    <img alt="Trabalho em Equipe" src="https://img.shields.io/badge/Trabalho%20em%20Equipe-green?style=flat-square" />
-    <img alt="Aprendizado Contínuo" src="https://img.shields.io/badge/Aprendizado%20Contínuo-yellow?style=flat-square" />
-    <img alt="Proatividade" src="https://img.shields.io/badge/Proatividade-orange?style=flat-square" />
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
----
 
-### 🤖 Linguagens e Tecnologias
+### 📊 Linguagens de Programação
 
-<img 
-    align="left" 
-    alt="R"
-    title="R" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="RStudio"
-    title="RStudio" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="SQLite"
-    title="RSQLite" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Power BI"
-    title="Power BI" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/powerbi.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="lateX"
-    title="lateX" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Excel"
-    title="Excel" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/microsoftexcel.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
+<p align="left">
+    <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
